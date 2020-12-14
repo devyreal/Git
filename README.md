@@ -1,3 +1,3 @@
 # hello-world
 
-Git 및 Github 공부용
+Git 및 Github 공부용 짱!
